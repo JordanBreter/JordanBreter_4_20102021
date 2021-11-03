@@ -7,6 +7,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.modiftexte{
+    text-align: center;
+}
 a,
 button {
     transition: all .3s ease-in-out;
@@ -677,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
