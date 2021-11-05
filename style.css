@@ -24,6 +24,9 @@ body {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+textarea#message {
+    display: block;
+}
 a,
 button {
     transition: all .3s ease-in-out;
